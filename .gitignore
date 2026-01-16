@@ -127,7 +127,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -206,3 +205,5 @@ go.work
 
 # End of https://www.toptal.com/developers/gitignore/api/go
 
+config.bat
+node_modules
